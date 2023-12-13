@@ -1,6 +1,6 @@
 <?php
 
-namespace Employees;
+namespace Persons\Employees;
 
 use FoodOrders\FoodOrder;
 use Invoices\Invoice;
